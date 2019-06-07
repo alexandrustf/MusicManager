@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Alex%20Stefan/Documents/NetBeansProjects/Music%20Manager/src/music/manager/entities/Song.java</file>
+            <file>file:/C:/Users/Alex%20Stefan/Documents/NetBeansProjects/Music%20Manager/src/controllers/exceptions/IllegalOrphanException.java</file>
+            <file>file:/C:/Users/Alex%20Stefan/Documents/NetBeansProjects/Music%20Manager/src/controllers/ArtistJpaController.java</file>
+            <file>file:/C:/Users/Alex%20Stefan/Documents/NetBeansProjects/Music%20Manager/src/music/manager/entities/MusicManager.java</file>
+            <file>file:/C:/Users/Alex%20Stefan/Documents/NetBeansProjects/Music%20Manager/src/controllers/AlbumJpaController.java</file>
+            <file>file:/C:/Users/Alex%20Stefan/Documents/NetBeansProjects/Music%20Manager/src/controllers/exceptions/NonexistentEntityException.java</file>
+            <file>file:/C:/Users/Alex%20Stefan/Documents/NetBeansProjects/Music%20Manager/src/music/manager/entities/Album.java</file>
+            <file>file:/C:/Users/Alex%20Stefan/Documents/NetBeansProjects/Music%20Manager/src/controllers/exceptions/PreexistingEntityException.java</file>
+            <file>file:/C:/Users/Alex%20Stefan/Documents/NetBeansProjects/Music%20Manager/src/controllers/SongJpaController.java</file>
+            <file>file:/C:/Users/Alex%20Stefan/Documents/NetBeansProjects/Music%20Manager/src/music/manager/entities/Artist.java</file>
+            <file>file:/C:/Users/Alex%20Stefan/Documents/NetBeansProjects/Music%20Manager/src/music/manager/create/Create.java</file>
+            <file>file:/C:/Users/Alex%20Stefan/Documents/NetBeansProjects/Music%20Manager/src/GUI/java/Container.java</file>
+            <file>file:/C:/Users/Alex%20Stefan/Documents/NetBeansProjects/Music%20Manager/src/radio/RadioClient.java</file>
+            <file>file:/C:/Users/Alex%20Stefan/Documents/NetBeansProjects/Music%20Manager/src/META-INF/persistence.xml</file>
+        </group>
+    </open-files>
+</project-private>
